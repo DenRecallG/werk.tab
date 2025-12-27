@@ -1,16 +1,5 @@
-﻿# werk.tab – Privacy Policy (Apple)
+﻿# werk.tab – Datenschutzerklärung
 
-Dieses Repository stellt eine **statische Onepager-Datenschutzerklärung** bereit, um sie in **App Store Connect** als Privacy Policy URL zu hinterlegen.
+GitHub Pages liefert diese Datenschutzerklärung unter:
 
-## Datei
-
-- `privacy.html`
-
-## GitHub Pages aktivieren
-
-Repo öffnen  **Settings**  **Pages** 
-- **Source**: Deploy from a branch
-- **Branch**: `main` / (root)
-
-Danach ist die Seite verfügbar unter:
-- `https://denrecallg.github.io/werk.tab/privacy.html`
+https://denrecallg.github.io/werk.tab/
