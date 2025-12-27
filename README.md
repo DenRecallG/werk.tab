@@ -1,13 +1,10 @@
-﻿# werk.tab  Support & Datenschutz
+﻿# werk.tab – Privacy Policy (Apple)
 
-Statische Seiten (HTML) für **Support** und **Datenschutz**, gedacht zum Hinterlegen in **App Store Connect**.
+Dieses Repository stellt eine **statische Onepager-Datenschutzerklärung** bereit, um sie in **App Store Connect** als Privacy Policy URL zu hinterlegen.
 
-## Seiten
+## Datei
 
-- `index.html`
-- `support.html`
-- `datenschutz.html`
-- `privacy.html` (Alias/Weiterleitung auf `datenschutz.html`)
+- `privacy.html`
 
 ## GitHub Pages aktivieren
 
@@ -15,6 +12,5 @@ Repo öffnen  **Settings**  **Pages**
 - **Source**: Deploy from a branch
 - **Branch**: `main` / (root)
 
-Danach sind die Seiten verfügbar unter:
-- `https://denrecallg.github.io/werk.tab/support.html`
-- `https://denrecallg.github.io/werk.tab/datenschutz.html`
+Danach ist die Seite verfügbar unter:
+- `https://denrecallg.github.io/werk.tab/privacy.html`
